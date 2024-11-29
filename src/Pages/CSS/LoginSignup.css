@@ -34,8 +34,8 @@
     font-size: 18px;
 }
 
-.loginsignup-container bytton {
-    width: 580px;
+.loginsignup-container button {
+    width: 605px;
     height: 72px;
     color: white;
     background: #ff4141;
@@ -58,7 +58,7 @@
     font-weight: 600;
 }
 
-.loginsignup-login-agree {
+.loginsignup-agree {
     display: flex;
     align-items: center;
     margin-top: 25px;
